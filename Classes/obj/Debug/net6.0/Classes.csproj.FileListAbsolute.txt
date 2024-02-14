@@ -1,0 +1,14 @@
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/ak47/Desktop/Repos_folder/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
